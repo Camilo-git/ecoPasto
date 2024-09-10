@@ -1,2 +1,5 @@
 # ecoPasto
-proyecto infraestructurante 
+proyecto infraestructurante
+
+
+dev: Jhojan Chaves
